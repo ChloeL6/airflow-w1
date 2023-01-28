@@ -21,6 +21,8 @@
 
 ## Description
 
+This repo is a project to schedule many tasks and create DAGs using Airflow. Below is an image of a successfully run DAG.
+<img src="/img/DAG.png" width="128"/> 
 
 
 ## Setup/Installation Requirements
