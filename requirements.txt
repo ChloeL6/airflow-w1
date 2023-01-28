@@ -1,0 +1,11 @@
+numpy
+pandas
+jupyterlab
+notebook
+jupyterthemes
+pyyaml
+google-cloud-storage
+google-cloud-bigquery
+pyarrow
+fsspec
+gcsfs
