@@ -74,9 +74,6 @@ BashOperator, PythonOperator and DummyOperator were used to create tasks. Below 
 Leave this running, and open a new terminal tab to use the command line.
 
 
-
-</br>
-
 ## Known Bugs
 
 * No known bugs
