@@ -2,7 +2,7 @@
 
 #### By Chloe (Yen Chi) Le
 
-#### This repo showcases working with datasets using Python, pandas, SQL, BigQuery and Looker Studio working as a team to develop an ETL pipeline. 
+#### This repo is a project to schedule and monitor workflows using Airflow. 
 
 <br>
 
@@ -21,8 +21,8 @@
 
 ## Description
 
-This repo is a project to schedule many tasks and create DAGs using Airflow. Below is an image of a successfully run DAG.
-<img src="/img/DAG.png" width="128"/> 
+BashOperator, PythonOperator and DummyOperator were used to create tasks. Below is an image of a successfully run DAG.
+<img src="/img/DAG.png" width="500"/> 
 
 
 ## Setup/Installation Requirements
@@ -63,7 +63,7 @@ This repo is a project to schedule many tasks and create DAGs using Airflow. Bel
   docker-compose up
   ```
 * When you see the AIRFLOW word in your terminal, that means everything is set up correctly:
-<img src="/img/airflow_setup.png" width="128"/> 
+<img src="/img/airflow_setup.png" width="500"/> 
 
 Leave this running, and open a new terminal tab to use the command line.
 
