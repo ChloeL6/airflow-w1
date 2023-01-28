@@ -22,8 +22,12 @@
 ## Description
 
 BashOperator, PythonOperator and DummyOperator were used to create tasks. Below is an image of a successfully run DAG.
-<img src="/img/DAG.png" width="500"/> 
 
+<br>
+<p align="center">
+  <img src="/img/DAG.png" width="800"/> 
+</p>
+</br>
 
 ## Setup/Installation Requirements
 
@@ -63,8 +67,10 @@ BashOperator, PythonOperator and DummyOperator were used to create tasks. Below 
   docker-compose up
   ```
 * When you see the AIRFLOW word in your terminal, that means everything is set up correctly:
-<img src="/img/airflow_setup.png" width="500"/> 
-
+  
+<p align="center">
+  <img src="/img/airflow_setup.png" width="800"/> 
+</p>
 Leave this running, and open a new terminal tab to use the command line.
 
 
